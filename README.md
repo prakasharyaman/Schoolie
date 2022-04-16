@@ -10,7 +10,7 @@ A complete flutter school management system using php as backend.
 This project is a starting point for a Fl![simple](https://user-images.githubusercontent.com/63445447/145444248-63938d06-5e20-488f-b220-77b5de85ab67.png)
 utter application.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started if this is your first Flutter project best of luck :
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
